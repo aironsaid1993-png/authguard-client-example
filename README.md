@@ -19,13 +19,13 @@ Lightweight Python client example demonstrating how to integrate desktop apps or
 ## Screenshots
 
 ### Admin Dashboard (License Generation & HWID Revocation)
-![Admin Dashboard](assets/admin.png)
+![Admin Dashboard](working%20screen.jpg)
 
 ### Desktop Client (2FA Provider Selection & Activation)
-![Desktop Client](assets/client.png)
+![Desktop Client](Screenshot%202026-11-24%20153433.png)
 
 ### Telegram Bot (Number-Matching 2FA Push Prompt)
-![Telegram 2FA Prompt](assets/telegram.png)
+![Telegram 2FA Prompt](Screenshot%202026-11-21%20131410.png)
 
 ---
 
